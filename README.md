@@ -1,0 +1,2 @@
+# PM_CoreferenceResolution
+Corpuslingusitic comparison study of coreference resolution for German and Dutch across the news and literary genres. The systems tested are sieved-based for Dutch (Cranenburgh, 2019) and mention- ranking CorZu for German (Klenner et al., 2010). The sieved-based system results more robust across genres, while the German one is unsurprisingly biased towards the genre used for its training.
